@@ -1,0 +1,106 @@
+.container {
+  flex: 1;
+  padding: 16px;
+  background-color: white;
+}
+.scrollContainer {
+  flexGrow: 1;
+  padding: 20px;
+}
+
+.rowContainer {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.pickerWrapper {
+  flex: 1;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: green;
+  margin-right: 10px;
+  height: 42px;
+  justify-content: center;
+}
+
+.picker {
+  height: 60px;
+  color: white;
+  text-align: center;
+}
+
+.input {
+  flex: 1;
+  border-width: 1px;
+  border-color: gray;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.textArea {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: deepskyblue;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 12px;
+}
+
+.buttonText {
+  color: #f9f9f9;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.summaryContainer {
+  padding: 10px;
+  border-width: 1px;
+  border-color: lightgray;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  margin-bottom: 10px;
+}
+
+.summaryText {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.post {
+  border-width: 1px;
+  border-color: lightgray;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.postTitle {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.timestamp {
+  font-size: 12px;
+  color: gray;
+  margin-top: 5px;
+}
