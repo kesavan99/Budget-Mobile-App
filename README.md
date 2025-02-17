@@ -5,7 +5,7 @@ Easily add & view transactions while keeping track of your spending. 🚀📉
 **Future Plan:**  
 The future plan is to automatically add the expense details based on incoming SMS 📱. It will automatically calculate money transfers 💸 from **Gpay**, **PhonePe**, and other UPIs 💳.
 
-**Figma Link:**  
+**Figma Link: need to update**  
 [Design Link](https://www.figma.com/design/MJEcwcoTJ4NWEcNJ5gbInt/Untitled?node-id=0-1&p=f&t=uLUo7UcF2vWekmGi-0)
 
 ---
